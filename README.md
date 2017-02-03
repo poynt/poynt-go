@@ -1,2 +1,2 @@
 # poynt-go
-Poynt Cloud APIs Golang SDK
+Golang client for Poynt cloud APIs
