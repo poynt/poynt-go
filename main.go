@@ -1,13 +1,10 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/poynt/poynt-go/poynt"
 )
 
 func main() {
-	fmt.Println("Hello World")
 	var applicationId = ""
 	var privateKeyPath = ""
 
